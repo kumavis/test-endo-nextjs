@@ -8,3 +8,8 @@ ReferenceError: exports is not defined
 
 This error happened while generating the page. Any console logs will be displayed in the terminal window.
 ```
+
+### development:
+
+- `yarn`
+- `yarn dev`
