@@ -1,13 +1,9 @@
 test of `endo` packages for use in nextjs
 
 
-the following error occurs:
-```
-Server Error
-ReferenceError: exports is not defined
-
-This error happened while generating the page. Any console logs will be displayed in the terminal window.
-```
+its working. idk the correct way to:
+- add a script that doesnt get transformed
+- ensure the script is only run once even if dev mode
 
 ### development:
 
